@@ -36,7 +36,7 @@ https://github.com/12come/Parsely
 ## Tutorial
 #### Script
 1. Openai 사이트에서 자신의 API 키를 발급받는다. 한번 열람 후 닫으면 다시 보지 못하니 키를 저장해둔다.
-2. [gptscript.py] 파일의 YOUR_API_KEY 부분에 1번에서 발급받은 키를 붙여넣기한다.
+2. gptscript.ipynb 파일의 YOUR_API_KEY 부분에 1번에서 발급받은 키를 붙여넣기한다.
 3. 첫번째 프롬프트는 역할을 부여하는 것이므로 알맞은 나이대로 설정한다.
 4. 2, 3번째 프롬프트에서 원하는 질문이나 조건들을 설정하여 입력한다.
 5. https://gh-coding.tistory.com/3 의 매뉴얼대로 gptscript.py를 실행하면 script.txt와 imagescript.txt가 생성된다.
