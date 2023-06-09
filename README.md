@@ -26,14 +26,19 @@ https://github.com/12come/videomaking
 
 ## TODO
 - Script
-- [ ]
-- [ ]
-- Image
-- [ ] FFmpeg 커맨드 작성
+- [ ] 
+- Image + Video
+- [x] FFmpeg 커맨드 작성
 - [ ] 파일 제목 전처리
-- [ ] init
+- [ ] init.txt 작성
+- [ ] FFmpeg 커맨드 파일 작성
+- [ ] 영상 사이즈 조절
+- [ ] 영상 디자인
+- [ ] 음성 타임 스탬프로 영상과 음성 싱크 맞추기
+- [ ] Stable Diffusion API 사용
+- [ ] 
 - Audio
-[ ] 
+- [ ] 
 
 ## Tutorial
 - Script
