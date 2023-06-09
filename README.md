@@ -14,9 +14,9 @@ https://github.com/12come/Parsely
 
 
 ## Member & Stack
-- 조수빈 | python 
-- 김윤선 | python
-- 양가현 | python
+- 조수빈 <img width = "50" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- 김윤선 <img width = "50" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- 양가현 <img width = "50" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
 ## Scenario
@@ -33,7 +33,11 @@ https://github.com/12come/Parsely/assets/109792191/be8a46ce-f418-4bf7-98f3-535b5
 
 ## Tutorial
 #### Script
-1. 
+1. Openai 사이트에서 자신의 API 키를 발급받는다. 한번 열람 후 닫으면 다시 보지 못하니 키를 저장해둔다.
+2. [gptscript.py] 파일의 YOUR_API_KEY 부분에 1번에서 발급받은 키를 붙여넣기한다.
+3. 첫번째 프롬프트는 역할을 부여하는 것이므로 알맞은 나이대로 설정한다.
+4. 2, 3번째 프롬프트에서 원하는 질문이나 조건들을 설정하여 입력한다.
+5. https://gh-coding.tistory.com/3 의 매뉴얼대로 gptscript.py를 실행하면 script.txt와 imagescript.txt가 생성된다.
 #### Image
 1. Hugging Face (https://huggingface.co)에 로그인하여 User Setting>Access Token에 들어가 토큰을 복사한다.
 2. https://colab.research.google.com/drive/1Iy-xW9t1-OQWhb0hNxueGij8phCyluOh#scrollTo=R-xAdMA5wxXd 를 실행한다.
@@ -71,7 +75,11 @@ https://github.com/12come/Parsely/assets/109792191/be8a46ce-f418-4bf7-98f3-535b5
   - [ ] DB에서 단어 랜덤으로 5개 추출
   - [ ] DB와 Script파트 연결
 #### Script
-  - [ ]  
+  - [x] 프롬프트 엔지니어링 학습 및 실행  
+  - [x] 셀레니움 매크로를 이용하여 gpt 답변 전달받기
+  - [ ] 난이도 별 프롬프트 작성
+  - [ ] 프롬프트 확정
+  - [ ] 데이터베이스와 연결할 API 구축
 #### Image + Video
   - [x] FFmpeg 커맨드 작성 및 샘플 영상 제작
   - [ ] 파일 제목 전처리
