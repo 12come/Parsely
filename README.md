@@ -26,12 +26,12 @@ https://github.com/12come/videomaking
 
 ## TODO
 - Script
-[ ]
-[ ]
+- [ ]
+- [ ]
 - Image
-[ ] FFmpeg 커맨드 작성
-[ ] 파일 제목 전처리
-[ ] init
+- [ ] FFmpeg 커맨드 작성
+- [ ] 파일 제목 전처리
+- [ ] init
 - Audio
 [ ] 
 
