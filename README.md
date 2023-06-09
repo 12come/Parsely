@@ -3,6 +3,7 @@
 
 ## Introduce Organization (URL)
 https://github.com/12come
+제품 프로토타입: https://youtu.be/GaEZT0LuURk
 
 
 ## Project Repository
@@ -39,11 +40,11 @@ https://github.com/12come/Parsely
 5. https://gh-coding.tistory.com/3 의 매뉴얼대로 gptscript.py를 실행하면 script.txt와 imagescript.txt가 생성된다.
 #### Image
 1. Hugging Face (https://huggingface.co)에 로그인하여 User Setting>Access Token에 들어가 토큰을 복사한다.
-2. https://colab.research.google.com/drive/1Iy-xW9t1-OQWhb0hNxueGij8phCyluOh#scrollTo=R-xAdMA5wxXd 를 실행한다.
+2. StableDiffusionUI_Voldemort.ipynb 또는 https://colab.research.google.com/drive/1Iy-xW9t1-OQWhb0hNxueGij8phCyluOh#scrollTo=R-xAdMA5wxXd 를 실행한다.
 3. 실행 결과 나온 사이트에 프롬프트를 입력한다.
 4. 이미지를 다운 받고, 영상 처리를 위해 제목을 %2d.{확장자명}으로 저장한다. 
 #### Audio
-1. https://colab.research.google.com/drive/1iCCSseo_UxRXPCk5CfEoeVWsDmii-yYX?usp=sharing 를 실행한다.
+1. TTS_Tacotron2_WaveGlow.ipynb 또는 https://colab.research.google.com/drive/1iCCSseo_UxRXPCk5CfEoeVWsDmii-yYX?usp=sharing 를 실행한다.
 2. 구글 코랩 환경을 설정한다. (하드웨어 가속기: GPU, GPU 유형: T4)
 3. 음성을 합성하고 싶은 텍스트 파일을 준비하고 경로를 코드에 복사한다. 
 4. [런타임]-[모두 실행] 또는 Ctrl+F9를 눌러 전체 코드를 실행한다.
