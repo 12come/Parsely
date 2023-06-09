@@ -27,7 +27,9 @@ https://github.com/12come/Parsely
 
 
 ## Architecture
+<img width="750" src="https://github.com/12come/Parsely/assets/109792191/be8a46ce-f418-4bf7-98f3-535b5940f740"/>
 
+https://github.com/12come/Parsely/assets/109792191/be8a46ce-f418-4bf7-98f3-535b5940f740
 
 ## Tutorial
 #### Script
