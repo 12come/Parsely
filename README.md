@@ -90,4 +90,5 @@ https://github.com/12come/Parsely
 - <https://chat.openai.com/>
 - <https://catalog.ngc.nvidia.com/orgs/nvidia/resources/tacotron_2_and_waveglow_for_pytorch>
 - <https://developer-kade.tistory.com/131>
+- https://subyecho.tistory.com
 
